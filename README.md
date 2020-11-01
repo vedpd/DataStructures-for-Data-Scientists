@@ -6,5 +6,6 @@ Following are the implementations that have been done so far:
 2.  [Queue](https://github.com/vedpd/DataStructures-for-Data-Scientists/blob/main/Queue_Implementation.ipynb) - works on concept of First In First Out
 3.  [Deque](https://github.com/vedpd/DataStructures-for-Data-Scientists/blob/main/Deque_Implementation.ipynb) - Allows addition and removal from front and rear.
 4.  [Valid Parenthesis](https://github.com/vedpd/DataStructures-for-Data-Scientists/blob/main/Valid_Parenthesis.ipynb) - validating if parenthesis given is in correct order  
+5. [Binary Search for finding element](https://github.com/vedpd/DataStructures-for-Data-Scientists/blob/main/Binary_Search.ipynb) - finding position of the element found in a list/array using binary search in case of a sorted list/array.
 
 

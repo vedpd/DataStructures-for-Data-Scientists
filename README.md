@@ -8,8 +8,8 @@ Following are the implementations that have been done so far:
 
 ----------------------------------------Algorithm based Questions----------------------------------------------
 
-4.  [Valid Parenthesis](https://github.com/vedpd/DataStructures-for-Data-Scientists/blob/main/Valid_Parenthesis.ipynb) - validating if parenthesis given is in correct order  
-5. [Binary Search for finding element](https://github.com/vedpd/DataStructures-for-Data-Scientists/blob/main/Binary_Search.ipynb) - finding position of the element found in a list/array using binary search in case of a sorted list/array.
-6. [Binary Search for finding element or for inserting a new element](https://github.com/vedpd/DataStructures-for-Data-Scientists/blob/main/BinarySearchInsert_LeetCode.ipynb) - finding position of the element found in a list/array using binary search in case of a sorted list/array. In case element is not in list, finding index at which the new element should be inserted
-
+4.  [Valid Parenthesis](https://github.com/vedpd/DataStructures-for-Data-Scientists/blob/main/Valid_Parenthesis.ipynb) - validating if parenthesis given is in correct order - LeetCode
+5. [Binary Search for finding element](https://github.com/vedpd/DataStructures-for-Data-Scientists/blob/main/Binary_Search.ipynb) - finding position of the element found in a list/array using binary search in case of a sorted list/array - Leetcode
+6. [Binary Search for finding element or for inserting a new element](https://github.com/vedpd/DataStructures-for-Data-Scientists/blob/main/BinarySearchInsert_LeetCode.ipynb) - finding position of the element found in a list/array using binary search in case of a sorted list/array. In case element is not in list, finding index at which the new element should be inserted - Leetcode
+7. [Find first and last index position for repeated values in a sorted array/list](https://github.com/vedpd/DataStructures-for-Data-Scientists/blob/main/FindFirst_Last_SortedArray.ipynb) - Finding Position of starting and ending index for repeating elements in an ascending sorted array- Leetcode
 

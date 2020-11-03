@@ -8,14 +8,14 @@ Following are the implementations that have been done so far:
 
 ----------------------------------------<b> Algorithm based Questions </b>----------------------------------------------
 
------ <b> Stack Based questions </b> ------------ <br>
-4.  [Valid Parenthesis](https://github.com/vedpd/DataStructures-for-Data-Scientists/blob/main/Valid_Parenthesis.ipynb) - validating if parenthesis given is in correct order - LeetCode
+<b> Stack Based questions </b><br>
+4.  [Valid Parenthesis](https://github.com/vedpd/DataStructures-for-Data-Scientists/blob/main/Valid_Parenthesis.ipynb) - validating if parenthesis given is in correct order - LeetCode<br><br>
 
------ <b> Binary Search based questions </b> ------------ <br>
+<b> Binary Search based questions </b> <br>
 5. [Binary Search for finding element](https://github.com/vedpd/DataStructures-for-Data-Scientists/blob/main/Binary_Search.ipynb) - finding position of the element found in a list/array using binary search in case of a sorted list/array - Leetcode <br> <br>
 6. [Binary Search for finding element or for inserting a new element](https://github.com/vedpd/DataStructures-for-Data-Scientists/blob/main/BinarySearchInsert_LeetCode.ipynb) - finding position of the element found in a list/array using binary search in case of a sorted list/array. In case element is not in list, finding index at which the new element should be inserted - Leetcode<br><br>
 7. [Find first and last index position for repeated values in a sorted array/list](https://github.com/vedpd/DataStructures-for-Data-Scientists/blob/main/FindFirst_Last_SortedArray.ipynb) - Finding Position of starting and ending index for repeating elements in an ascending sorted array- Leetcode <br> <br>
 8. [Find peak element in a list](https://github.com/vedpd/DataStructures-for-Data-Scientists/blob/main/Find_Peak_Element.ipynb) - find the location of maximum value in a list when the list has a maxima and thus not necessarily an ascending sorted array. <br> <br>
 
------<b> Hashing based questions </b> ------------ <br>
+<b> Hashing based questions </b> <br>
 9.[Group Anagrams together](https://github.com/vedpd/DataStructures-for-Data-Scientists/blob/main/Group_Anagrams.ipynb) - find all the words which are anagrams of each other, group them and return them<br> <br>

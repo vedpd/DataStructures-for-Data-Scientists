@@ -19,3 +19,6 @@ Following are the implementations that have been done so far:
 
 <b> Hashing based questions </b> <br>
 9.[Group Anagrams together](https://github.com/vedpd/DataStructures-for-Data-Scientists/blob/main/Group_Anagrams.ipynb) - find all the words which are anagrams of each other, group them and return them<br> <br>
+
+<b> Sorting based questions </b> <br>
+10.[Merge Intervals](https://github.com/vedpd/DataStructures-for-Data-Scientists/blob/main/Merge_Intervals.ipynb) - combine the intervals based on the overlapping intervals to find final list of intervals<br> <br>

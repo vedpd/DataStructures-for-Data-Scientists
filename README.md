@@ -18,7 +18,10 @@ Following are the implementations that have been done so far:
 8. [Find peak element in a list](https://github.com/vedpd/DataStructures-for-Data-Scientists/blob/main/Find_Peak_Element.ipynb) - find the location of maximum value in a list when the list has a maxima and thus not necessarily an ascending sorted array. <br> <br>
 
 <b> Hashing based questions </b> <br>
-9.[Group Anagrams together](https://github.com/vedpd/DataStructures-for-Data-Scientists/blob/main/Group_Anagrams.ipynb) - find all the words which are anagrams of each other, group them and return them<br> <br>
+9. [Group Anagrams together](https://github.com/vedpd/DataStructures-for-Data-Scientists/blob/main/Group_Anagrams.ipynb) - find all the words which are anagrams of each other, group them and return them<br> <br>
 
 <b> Sorting based questions </b> <br>
-10.[Merge Intervals](https://github.com/vedpd/DataStructures-for-Data-Scientists/blob/main/Merge_Intervals.ipynb) - combine the intervals based on the overlapping intervals to find final list of intervals<br> <br>
+10. [Merge Intervals](https://github.com/vedpd/DataStructures-for-Data-Scientists/blob/main/Merge_Intervals.ipynb) - combine the intervals based on the overlapping intervals to find final list of intervals<br> <br>
+
+<b> Two Pointer questions </b> <br>
+11. [Container with most water](https://github.com/vedpd/DataStructures-for-Data-Scientists/blob/main/Container_with_most_water.ipynb) - givena list with height at each index along x axis, obtain the max area of rectangular container that can contain most water

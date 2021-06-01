@@ -25,3 +25,4 @@ Following are the implementations that have been done so far:
 
 <b> Two Pointer questions </b> <br>
 11. [Container with most water](https://github.com/vedpd/DataStructures-for-Data-Scientists/blob/main/Container_with_most_water.ipynb) - givena list with height at each index along x axis, obtain the max area of rectangular container that can contain most water
+12. [Remove duplicates from sorted array](https://github.com/vedpd/DataStructures-for-Data-Scientists/blob/main/26.remove-duplicates-from-sorted-array_v2.py) - given a sorted array we need to remove the duplicate elements, since we need to identify unique element and hence the constraint is to retain values which are unique, we need to keep track of duplicates by traversing over array and then moving the duplicate ones towards end. Thus, this approach requires a 2 pointer based solution.
